@@ -1,0 +1,20 @@
+{
+  "name": "เซ็นสัญญา",
+  "short_name": "เซ็นสัญญา",
+  "start_url": "/signed.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff",
+  "icons": [
+    {
+      "src": "https://cdn.glitch.global/47bd20a5-ea68-4eee-b852-538d3eb2c0a4/1729495746901.jpg?v=1729613467316",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://cdn.glitch.global/47bd20a5-ea68-4eee-b852-538d3eb2c0a4/1729495746901.jpg?v=1729613467316",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
