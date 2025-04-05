@@ -1,0 +1,20 @@
+{
+  "name": "OK FIX",
+  "short_name": "OK FIX",
+  "start_url": "/regist.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff",
+  "icons": [
+    {
+      "src": "https://lh3.googleusercontent.com/d/1sbUVhokFT9ql__xikPRZmGzyGppaPf_k",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://lh3.googleusercontent.com/d/1sbUVhokFT9ql__xikPRZmGzyGppaPf_k",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
