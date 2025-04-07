@@ -1,0 +1,20 @@
+{
+  "name": "OK FIX Center",
+  "short_name": "FIX Center",
+  "start_url": "/cp.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff",
+  "icons": [
+    {
+      "src": "https://lh3.googleusercontent.com/d/1pYgS85dpghZz9sNkrjUkiFiAy6N690DH",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://lh3.googleusercontent.com/d/1pYgS85dpghZz9sNkrjUkiFiAy6N690DH",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
